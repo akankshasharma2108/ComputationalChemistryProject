@@ -70,7 +70,7 @@ Since this is a client-side web application, no installation is required.
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/your-username/nucleus-comp-chem.git](https://github.com/your-username/nucleus-comp-chem.git)
+        git clone [https://github.com/your-username/nucleus-comp-chem.git](https://github.com/your-username/nucleus-comp-chem.git)
     ```
 2.  **Navigate to the folder:**
     ```bash
